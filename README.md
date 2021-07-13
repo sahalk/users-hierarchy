@@ -39,6 +39,6 @@ Additionally, if the local machine has "XDebug" (VS Code Plugin) installed. The 
 
 XDebug is a tool that is used to debug PHP code and can be used to develop and debug your code. The can be extremely useful for developers writing code in PHP and would like to debug the code during the development process.
 
-For more info, please visit: https://5balloons.info/setting-up-xdebug-using-laravel-valet-and-vscode/ 
+For more info, please visit: https://www.cloudways.com/blog/php-debug/
 
 ## Have fun! :)
