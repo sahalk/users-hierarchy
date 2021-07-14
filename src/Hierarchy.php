@@ -159,7 +159,7 @@ class Hierarchy {
                 $subObj[] = $user->userObj;
             }
         } else {
-            echo "\n\nAll Subordinates \n\n";
+            echo "\n\nAll Subordinates - Role ID ".$roleID ." \n\n";
         }
 
         // Recursive function to extract and print all the children.
